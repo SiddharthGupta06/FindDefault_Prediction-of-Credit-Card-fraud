@@ -50,4 +50,4 @@ The repository contains the following files:
 4. Consistently observe and refine the deployed model to accommodate changing fraud patterns.
 
 ## Model Deployment plan
-- There is the deployment plan for the model of this project.
+- There is the deployment plan for the model of this project. Model deployed using pickle file.
